@@ -55,5 +55,5 @@ or
 ```
 python predict.py ../model/model_002.caffemodel celeba
 ```
-![](http://7xvn1q.com2.z0.glb.qiniucdn.com/16-7-27/18084155.jpg)
+![](demo.png)
 
