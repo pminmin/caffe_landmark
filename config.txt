@@ -1,0 +1,4 @@
+train_txt = dataset/train/trainImagelist.txt
+valid_txt = dataset/train/testImagelist.txt
+test_file = /home/pengmin/cnn_5/dataset/test/bioid_1471_bbox.txt
+test_dir_out = test_out_001
